@@ -13,15 +13,16 @@
 migrate_working_dir/
 
 # old assignment
-/lib/expentse_app/
+/lib/quiz_app/
 /lib/w7_statefull/
 /lib/W8 - PRACTICE- Lists, Pass Functions/
 /lib/w8_weather_challenge/
-/lib/w9/
 /lib/w10/
+/lib/crud
+/lib/w12
 
 # Unuse Assets
-/assets/
+/assets
 
 # IntelliJ related
 *.iml
