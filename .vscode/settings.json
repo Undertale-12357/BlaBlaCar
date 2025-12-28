@@ -1,0 +1,33 @@
+{
+    "editor.fontFamily": "Comic Sans MS, 'Comic Sans MS', monospace",
+    "editor.codeLensFontFamily": "Comic Sans MS",
+    "editor.inlayHints.fontFamily": "Comic Sans MS",
+    "editor.inlineSuggest.fontFamily": "Comic Sans MS",
+    "debug.console.fontFamily": "Comic Sans MS",
+    "scm.inputFontFamily": "Comic Sans MS",
+    "terminal.integrated.fontFamily": "monospace",
+    "notebook.markup.fontFamily": "Comic Sans MS",
+    "terminal.integrated.fontSize": 14,
+    "terminal.integrated.fontWeight": "normal",
+    "terminal.integrated.profiles.windows": {
+
+        "PowerShell": {
+            "source": "PowerShell",
+            "icon": "terminal-powershell"
+        },
+        "Command Prompt": {
+            "path": [
+                "${env:windir}\\Sysnative\\cmd.exe",
+                "${env:windir}\\System32\\cmd.exe"
+            ],
+            "args": [],
+            "icon": {
+                "id": "terminal-cmd"
+            }
+        },
+        "Git Bash": {
+            "path": "C:\\Program Files\\Git\\bin\\bash.exe",
+            "icon": "terminal-bash"
+        }
+    }
+}
