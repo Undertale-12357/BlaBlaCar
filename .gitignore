@@ -12,17 +12,11 @@
 .swiftpm/
 migrate_working_dir/
 
-# old assignment
-/lib/quiz_app/
-/lib/w7_statefull/
-/lib/W8 - PRACTICE- Lists, Pass Functions/
-/lib/w8_weather_challenge/
-/lib/w10/
-/lib/crud
-/lib/w12
+#Term1
+lib/Term1
 
 # Unuse Assets
-/assets
+assets/Term1
 
 # IntelliJ related
 *.iml
