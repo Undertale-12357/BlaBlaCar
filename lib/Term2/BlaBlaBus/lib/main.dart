@@ -1,3 +1,4 @@
+import 'package:blabla/Term2/BlaBlaBus/lib/screens/test/test_screen.dart';
 import 'package:flutter/material.dart';
 import 'screens/ride_pref/ride_pref_screen.dart';
 import 'theme/theme.dart';
@@ -14,7 +15,8 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       theme: appTheme,
-      home: Scaffold(body: RidePrefScreen()),
+      // home: Scaffold(body: RidePrefScreen()),
+      home: Scaffold(body: TestScreen()),
     );
   }
 }
